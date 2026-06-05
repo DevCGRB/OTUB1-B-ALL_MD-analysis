@@ -1,0 +1,14 @@
+Sample input file for PB calculation
+
+&general
+   startframe=1, endframe=2002, interval=5,
+   verbose=1,
+/
+
+&gb
+   igb=5,
+/
+
+&pb
+   istrng=0.150,
+/
